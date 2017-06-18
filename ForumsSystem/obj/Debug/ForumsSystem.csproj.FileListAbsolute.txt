@@ -34,3 +34,15 @@ C:\Users\TAL\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.pdb
 C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.exe.config
 C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.exe
 C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.pdb
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.exe
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.pdb
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.csprojResolveAssemblyReference.cache
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\App.g.cs
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem_MarkupCompile.cache
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem_MarkupCompile.lref
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\App.baml
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\MainWindow.baml
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.g.resources
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.Properties.Resources.resources
+C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.csproj.GenerateResource.Cache

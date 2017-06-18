@@ -9,10 +9,6 @@
 
 
 
-
-    
-
-
     <Window.Resources>
         
         <DataTemplate x:Key="DataTemplateItemConverter">
@@ -32,7 +28,7 @@
     </Window.Resources>
     
     <Grid Background="#FFCFD1D4">
-        <Grid x:Name="main" Visibility="Visible">
+        <Grid x:Name="main" Visibility="Hidden">
             <Grid.RowDefinitions>
                 <RowDefinition Height="1*" />
                 <RowDefinition Height="5*" />
@@ -76,6 +72,23 @@
                     </ListBox.ItemTemplate> 
             </ListBox>
 
+        </Grid>
+
+        <Grid Background="#FFCFD1D4">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="5*" />
+            </Grid.RowDefinitions>
+
+            <StackPanel Margin="0,0,0,0" Grid.Row="1" Height="200" Width="200" Background="Gray">
+                <TextBlock Text="Username:" FontWeight="Bold" Margin="10,5,0,5" Foreground="#FFF1E5E5" />
+                <TextBox  Name="userNameBox" Grid.Row="0" Margin="10,0" BorderBrush="White"/>
+                <TextBlock Text="Password:" FontWeight="Bold" Margin="10,5,0,5" Foreground="#FFF1E5E5" />
+                <TextBox  Name="passwordBox" Grid.Row="0" Margin="10,0" BorderBrush="White"/>
+                <TextBlock Text="Email:" FontWeight="Bold" Margin="10,5,0,5" Foreground="#FFF1E5E5" />
+                <TextBox  Name="emailBox" Grid.Row="0" Margin="10,0" BorderBrush="White"/>
+            </StackPanel>
 
         </Grid>
 
