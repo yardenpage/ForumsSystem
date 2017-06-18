@@ -56,6 +56,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Controller\Forum_Controller.cs" />
+    <Compile Include="ForumWindow.xaml.cs">
+      <DependentUpon>ForumWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ImageConverter.cs" />
     <Compile Include="Model\Account.cs" />
     <Compile Include="Model\Activities.cs" />
@@ -78,6 +81,10 @@
     <Compile Include="Model\User.cs" />
     <Compile Include="Notification .cs" />
     <Compile Include="VisibleItem.cs" />
+    <Page Include="ForumWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
