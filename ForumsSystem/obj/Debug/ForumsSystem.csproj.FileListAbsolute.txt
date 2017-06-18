@@ -1,0 +1,30 @@
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.exe.config
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.exe
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.pdb
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.csprojResolveAssemblyReference.cache
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\MainWindow.g.cs
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\App.g.cs
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem_MarkupCompile.cache
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem_MarkupCompile.lref
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\MainWindow.baml
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.g.resources
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.Properties.Resources.resources
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.csproj.GenerateResource.Cache
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.exe
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.pdb
+c:\users\or\documents\visual studio 2015\Projects\ForumsSystem\ForumsSystem\obj\Debug\App.baml
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.exe.config
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.exe
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.pdb
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem_MarkupCompile.cache
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem_MarkupCompile.lref
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\App.baml
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.g.resources
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.Properties.Resources.resources
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.exe
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.pdb
