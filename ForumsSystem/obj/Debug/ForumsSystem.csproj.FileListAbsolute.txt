@@ -28,9 +28,6 @@ C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.Propertie
 C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.csproj.GenerateResource.Cache
 C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.exe
 C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.pdb
-C:\Users\TAL\Source\Repos\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.exe.config
-C:\Users\TAL\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.exe
-C:\Users\TAL\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.pdb
 C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\bin\Debug\ForumsSystem.exe.config
 C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.exe
 C:\Users\Or\Source\Repos\ForumsSystem\ForumsSystem\obj\Debug\ForumsSystem.pdb
