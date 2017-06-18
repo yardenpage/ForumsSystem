@@ -55,8 +55,21 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Controller\Forum_Controller.cs" />
     <Compile Include="ImageConverter.cs" />
+    <Compile Include="Model\Account.cs" />
+    <Compile Include="Model\Activities.cs" />
+    <Compile Include="Model\Admin.cs" />
+    <Compile Include="Model\Leader.cs" />
+    <Compile Include="Model\Complaint.cs" />
+    <Compile Include="Model\Discussion.cs" />
+    <Compile Include="Model\Error.cs" />
     <Compile Include="Model\Forum.cs" />
+    <Compile Include="Model\Group.cs" />
+    <Compile Include="Model\Logger.cs" />
+    <Compile Include="Model\Managment.cs" />
+    <Compile Include="Model\Member.cs" />
+    <Compile Include="Model\MessageGroup.cs" />
     <Compile Include="VisibleItem.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
