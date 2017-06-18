@@ -9,5 +9,7 @@ namespace ForumsSystem.Model
     class Forum
     {
         //bbhj
+        int i = 1;
+        //efew 
     }
 }
