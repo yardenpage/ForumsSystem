@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Debug\
+C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\obj\Release\
 ForumsSystem
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Dell\Desktop\ForumsSystem\ForumsSystem\App.xaml
 11151548125
 
