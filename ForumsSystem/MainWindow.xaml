@@ -28,69 +28,21 @@
     </Window.Resources>
     
     <Grid Background="#FFCFD1D4">
-        <Grid x:Name="main" Visibility="Hidden">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="1*" />
-                <RowDefinition Height="5*" />
-            </Grid.RowDefinitions>
 
+        <Grid.RowDefinitions>
+          <RowDefinition Height="1*" />
+          <RowDefinition Height="5*" />
+        </Grid.RowDefinitions>
 
-            <Border Grid.ColumnSpan="1">
-                <Border.Background >
-                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                        <GradientStop Color="#FFDA5858" Offset="2" />
-                    </LinearGradientBrush>
-                </Border.Background >
-            </Border>
+        <StackPanel Margin="0,0,0,0" Grid.Row="1" Height="200" Width="200" Background="Gray">
+          <TextBlock Text="Username:" FontWeight="Bold" Margin="10,5,0,5" Foreground="#FFF1E5E5" />
+          <TextBox  Name="userNameBox" Grid.Row="0" Margin="10,0" BorderBrush="White"/>
+          <TextBlock Text="Password:" FontWeight="Bold" Margin="10,5,0,5" Foreground="#FFF1E5E5" />
+          <TextBox  Name="passwordBox" Grid.Row="0" Margin="10,0" BorderBrush="White"/>
+          <TextBlock Text="Email:" FontWeight="Bold" Margin="10,5,0,5" Foreground="#FFF1E5E5" />
+          <TextBox  Name="emailBox" Grid.Row="0" Margin="10,0" BorderBrush="White"/>
+        </StackPanel>
 
-            <Button Content = "Login" Click="Button_Click" Style="{StaticResource BaseButtonStyle}" Height = "21" VerticalAlignment="Bottom" Margin="598,0,26,20"  Grid.Row="0" FontSize="10" />
-            <TextBox  Name="postingFilesTextBox" Grid.Row="0" Margin="191,19,135,20" BorderBrush="White"/>
-            <Button Content = "Find" Click="Button_Click" Style="{StaticResource BaseButtonStyle}" Height = "21" VerticalAlignment="Bottom" Margin="140,0,491,20"  Grid.Row="0" FontSize="10" Background="#FFC3CEDE" BorderBrush="White" />
-
-            
-
-            <!--<ListBox x:Name="ListBoxConverter" Grid.Row="1" ItemsSource="{Binding dataList}" IsSynchronizedWithCurrentItem="True" HorizontalContentAlignment="Left" Margin="10" />-->
-
-            <ListBox x:Name="ListBoxConverter" ItemsSource="{Binding dataList}" Margin="8" Grid.Row="1" Background="Gray"
-                 ScrollViewer.VerticalScrollBarVisibility="Auto"
-                 ScrollViewer.HorizontalScrollBarVisibility="Disabled">
-                    <ListBox.ItemTemplate>
-                        <DataTemplate>
-                            <StackPanel Orientation="Horizontal" Background="White" Margin="5" Width="625">
-                            <!--<Image Source="C:\\chat.png" Height="35" Margin="15,10,30,5"/>-->
-                                    <TextBlock Margin="10,20,5,5" Text="{Binding Name}" FontWeight="Bold" />
-                                    <StackPanel Margin="80,5,5,5" Width="100">
-                                            <TextBlock Text="{Binding SomeDetail}" FontWeight="Bold" />
-                                            <TextBlock Text="{Binding SomeDetail}"/>
-                                            <TextBlock Text="{Binding SomeDetail}" FontStyle="Italic"/>
-                                    </StackPanel>
-
-                            <Button Content = "View" Click="Button_Click" Style="{StaticResource BaseButtonStyle}" Height = "21"  Margin="60,0,20,0" FontSize="10" Background="#FFC3CEDE" BorderBrush="White" />
-
-                        </StackPanel>
-                        </DataTemplate>
-                    </ListBox.ItemTemplate> 
-            </ListBox>
-
-        </Grid>
-
-        <Grid Background="#FFCFD1D4">
-
-            <Grid.RowDefinitions>
-                <RowDefinition Height="1*" />
-                <RowDefinition Height="5*" />
-            </Grid.RowDefinitions>
-
-            <StackPanel Margin="0,0,0,0" Grid.Row="1" Height="200" Width="200" Background="Gray">
-                <TextBlock Text="Username:" FontWeight="Bold" Margin="10,5,0,5" Foreground="#FFF1E5E5" />
-                <TextBox  Name="userNameBox" Grid.Row="0" Margin="10,0" BorderBrush="White"/>
-                <TextBlock Text="Password:" FontWeight="Bold" Margin="10,5,0,5" Foreground="#FFF1E5E5" />
-                <TextBox  Name="passwordBox" Grid.Row="0" Margin="10,0" BorderBrush="White"/>
-                <TextBlock Text="Email:" FontWeight="Bold" Margin="10,5,0,5" Foreground="#FFF1E5E5" />
-                <TextBox  Name="emailBox" Grid.Row="0" Margin="10,0" BorderBrush="White"/>
-            </StackPanel>
-
-        </Grid>
-
+       
     </Grid>
 </Window>
