@@ -69,7 +69,14 @@
     <Compile Include="Model\Logger.cs" />
     <Compile Include="Model\Managment.cs" />
     <Compile Include="Model\Member.cs" />
+    <Compile Include="Model\Message.cs" />
     <Compile Include="Model\MessageGroup.cs" />
+    <Compile Include="Model\Policy.cs" />
+    <Compile Include="Model\Security.cs" />
+    <Compile Include="Model\SubForum.cs" />
+    <Compile Include="Model\Update.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Notification .cs" />
     <Compile Include="VisibleItem.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
