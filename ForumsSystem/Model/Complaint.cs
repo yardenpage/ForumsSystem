@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace ForumsSystem.Model
 {
-    class Forum
+    class Complaint
     {
-        //bbhj
-        int i = 1;
-        //efew 
+        string content;
+        int Id;
+        int SubForum;
+        Admin Admin;
+        Leader[] leaders;
+        Member member;
     }
 }

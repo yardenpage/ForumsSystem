@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace ForumsSystem.Model
 {
-    class Forum
+   abstract class Logger
     {
-        //bbhj
-        int i = 1;
-        //efew 
     }
 }

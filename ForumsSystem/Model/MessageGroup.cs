@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace ForumsSystem.Model
 {
-    class Forum
+    class MessageGroup
     {
-        //bbhj
-        int i = 1;
-        //efew 
+
+        Group m_group;
+        Member[] members;
     }
 }
