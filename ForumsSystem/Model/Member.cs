@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,16 +11,17 @@ namespace ForumsSystem.Model
     {
         String uniqeid;
         ArrayList groups = new ArrayList(); //the groups of the member
-        ArrayList accounts = new ArrayList()
- ArrayList friends = new ArrayList(); //the friends of the member
-        ArrayList<String> subForums = new ArrayList(); //the subforums of the member
-        ArrayList<message> messages = new ArrayList<message>(); //the messages of the member
-        ArrayList<notification> notifications = new ArrayList<notification>(); //the notification of the member
-        ArrayList<complaint> complaints = new ArrayList<complaint>(); //the complaint of the member
+        ArrayList accounts = new ArrayList();
+        ArrayList friends = new ArrayList(); //the friends of the member
+        ArrayList subForums = new ArrayList(); //the subforums of the member
+        ArrayList messages = new ArrayList(); //the messages of the member
+        ArrayList  notifications = new ArrayList(); //the notification of the member
+        ArrayList  complaints = new ArrayList(); //the complaint of the member
 
-        public member(String uniqeid, String password, int forumid) { }
+        public Member(string uniqeid, string password, int forumid) {
+                }
 
-        public void SendNotification(ArrayList<member> mem) { }
+        public void SendNotification(ArrayList mem) { }
 
     }
 }
